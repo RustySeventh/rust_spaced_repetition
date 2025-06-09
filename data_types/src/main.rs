@@ -1,5 +1,5 @@
 fn main() {
-    let guess = "42".parse().expect("Not a number!");
+    let guess: i32 = "42".parse().expect("Not a number!");
     let number = 3.14;
     let is_ready = true;
     let letter = 'R';
