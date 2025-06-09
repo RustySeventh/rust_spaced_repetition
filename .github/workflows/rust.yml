@@ -19,7 +19,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
-    - name: navigate to directory
     - name: Build
       run: cargo build --verbose
     - name: Run tests
