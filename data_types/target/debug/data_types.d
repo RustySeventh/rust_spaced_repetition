@@ -1,1 +1,1 @@
-/mnt/c/Users/André\ Colin/Documents/rust_spaced_repetition/data_types/target/debug/data_types: /mnt/c/Users/André\ Colin/Documents/rust_spaced_repetition/data_types/src/main.rs
+/mnt/c/Users/André\ Colin/Documents/rust_spaced_repetition/data_types/target/debug/data_types: /mnt/c/Users/André\ Colin/Documents/rust_spaced_repetition/data_types/src/integer_range.rs /mnt/c/Users/André\ Colin/Documents/rust_spaced_repetition/data_types/src/main.rs
