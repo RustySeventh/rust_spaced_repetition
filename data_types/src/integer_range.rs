@@ -1,4 +1,4 @@
-fn fits_in_type(value: i64, type_name: &str) -> bool {
+pub fn fits_in_type(value: i64, type_name: &str) -> bool {
     match type_name {
         "i8" => value >= i8::MIN as i64 && value <= i8::MAX as i64,
         "u8" => value >= u8::MIN as i64 && value <= u8::MAX as i64,
